@@ -16,8 +16,8 @@ curl -sO https://raw.githubusercontent.com/leitura/ip-free/main/iniciar.sh; chmo
 Se quiser consultar os resultados
 
 ### Lista gerada
-``` bash OK.txt
-```
+
+bash OK.txt
 
 
 
