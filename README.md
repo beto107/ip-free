@@ -17,7 +17,7 @@ Se quiser consultar os resultados
 
 ### Lista gerada
 
-bash OK.txt
+cat OK.txt
 
 
 
