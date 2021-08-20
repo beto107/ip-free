@@ -5,7 +5,7 @@
 [![Chat on Telegram](https://img.shields.io/badge/Telegram-OMentalista-blue)](https://t.me/OMentalista)
 ### Pré-requisitos
 
-se necessário, 
+se necessário,
 pkg install ncurses-utils
 pacotes básicos
 Use com a rede móvel alvo, sem saldo de dados para internet, de preferência. 
